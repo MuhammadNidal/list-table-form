@@ -1,0 +1,120 @@
+/*unorder list
+
+ul {
+    list-style-type: square;}
+
+    */
+    /*order list
+    ol {
+        list-style-type: upper-roman;
+    }*/
+
+   /*  IMAGES FOR BUULLET*/
+ /*  Ul {
+ list-style-image: url("download.jpeg");
+}
+li {
+    margin: 10px 0px 0px 0px;}
+    */
+    
+ /*LIST STYLE POSITION*/
+ /*ul {
+    width: 150px;}
+    li {
+    margin: 10px;}
+    ul.illuminations {
+    list-style-position: outside;}
+    ul.season {
+    list-style-position: inside;}
+    */
+
+     /*LIST-SHORTHAND*/
+     /* ul {
+        list-style: inside circle;
+        width: 300px;}
+        li {
+        margin: 10px 0px 0px 0px;} */
+
+      /*TABLE PROPERTIES   */
+        
+      /* body {
+        font-family: Arial, Verdana, sans-serif;
+        color: #111111;}
+        table {
+        width: 600px;}
+        th, td {
+        padding: 7px 10px 10px 10px;}
+        th {
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        font-size: 90%;
+        border-bottom: 2px solid #111111;
+        border-top: 1px solid #999;
+        text-align: left;}
+        tr.even {
+        background-color: #efefef;}
+        tr:hover {
+        background-color: #c3e6e5;}
+        .money {
+        text-align: right;} */
+
+       /*EMPTY CELL*/
+       /* td {
+        border: 1px solid #0088dd;
+        padding: 15px;}
+        table.one {
+        empty-cells: show;}
+        table.two {
+        empty-cells: hide;}   */
+
+      /* GAPS BETWEEN CELLS*/
+      /* td {
+        background-color: #0088dd;
+        padding: 15px;
+        border: 2px solid #000000;}
+        table.one {
+        border-spacing: 5px 15px;}
+        table.two {
+        border-collapse: collapse;}   */
+
+        /*STYLING FORM*/
+        /* input { 
+            font-size: 120%; 
+            color: #5a5854; 
+            background-color: #f2f2f2; 
+            border: 1px solid #bdbdbd; 
+            border-radius: 5px; 
+            padding: 5px 5px 5px 30px; 
+            background-repeat: no-repeat; 
+            background-position: 8px 9px; 
+            display: block; 
+            margin-bottom: 10px;} 
+            input:focus {
+            background-color: #ffffff; 
+            border: 1px solid #b1e1e4;} 
+            input#email { 
+            background-image: url("EMAIL.png");} 
+            input#github{ 
+            background-image: url("GITHUB.png");}  */
+
+     STYLING FIELSET AND LEGEND
+/* 
+     fieldset {
+        width: 350px;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: right;}
+        legend {
+        background-color: #efefef;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 10px 20px;
+        text-align: left;
+        text-transform: uppercase;}
+      */
+
+      CURSOR STYLE*/
+      #submit-btn:hover{
+        cursor: help;
+      }
